@@ -17,9 +17,9 @@
 -  I’m currently learning ...
       A lot of different things, I never stop learning! My focus right now is on penetration testing, tools and techniques. I am working on getting industry certifications and how to be better, for career aspirations.
 
-<div id="header" align="center">
+ <!--- (<div id="header" align="left">
   <img src="https://media.giphy.com/media/3oEjHECc1GftirnHZm/giphy.gif" width="300"/>
-</div>
+</div>) -->
 
 <!---
 gray-area/gray-area is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
