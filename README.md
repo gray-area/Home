@@ -1,6 +1,11 @@
-- 👋 Hi, I’m @gray-area
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="300"/>
+</div>
 
-- 👀 I’m interested in ...
+
+-  Hi, I’m @gray-area
+
+-  I’m interested in ...
       Pentration testing tools and techniques. Specifically, I am working on gaining a better understanding or learning more about the following areas of weaknesses:
       
       * Remote File Inclusion / Local File Inclusion (RFI/LFI) 📂
@@ -9,8 +14,12 @@
       * Privilege Escalation (Both Linux and Windows) 🏆
       * SQL Injection 💉
       
-- 📘 I’m currently learning ...
+-  I’m currently learning ...
       A lot of different things, I never stop learning! My focus right now is on penetration testing, tools and techniques. I am working on getting industry certifications and how to be better, for career aspirations.
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/3oEjHECc1GftirnHZm/giphy.gif" width="300"/>
+</div>
 
 <!---
 gray-area/gray-area is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
