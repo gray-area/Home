@@ -24,10 +24,10 @@
 -  I’m currently learning ...
       A lot of different things, I never stop learning! My focus right now is on penetration testing, tools and techniques. I am working on getting industry certifications and how to be better, for career aspirations.
 
-
+<div></div>
 
 <div id="credly" align="center">
-  <img src="https://www.credly.com/badges/c3cbe620-5cae-422f-83c3-5bd9b5d73561/public_url" width="300"/>
+  <img src="https://github.com/gray-area/gray-area/blob/main/pictures/giac-web-application-penetration-tester-gwapt.png" width="116"/>
 </div>
 
 <!---
