@@ -28,6 +28,8 @@
 
 <div id="credly" align="center">
   <img src="https://github.com/gray-area/gray-area/blob/main/pictures/giac-web-application-penetration-tester-gwapt.png" width="116"/>
+  <img src="https://github.com/gray-area/gray-area/blob/main/pictures/giac-certified-penetration-tester-gpen.png" width="116"/>
+  <img src="https://github.com/gray-area/gray-area/blob/main/pictures/giac-certified-penetration-tester-gpen.png" width="116"/>
 </div>
 
 <!---
