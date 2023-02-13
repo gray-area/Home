@@ -20,7 +20,7 @@
 <br />
 
 <div id="ascii" align="center">
-  <img src="https://github.com/gray-area/gray-area/blob/main/pictures/banner.txt"/>
+  <img src="https://github.com/gray-area/gray-area/blob/main/pictures/Copy_of_GRAY_AREA-removebg-preview.html"/>
 </div>
 
 -  Hi, I’m @gray-area
