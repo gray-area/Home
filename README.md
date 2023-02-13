@@ -17,11 +17,6 @@
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
-<br />
-
-<div id="ascii" align="center">
-  <img src="https://github.com/gray-area/gray-area/blob/main/pictures/Copy_of_GRAY_AREA-removebg-preview.html"/>
-</div>
 
 -  Hi, I’m @gray-area
 
